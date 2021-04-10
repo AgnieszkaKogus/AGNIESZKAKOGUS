@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and web development
 - 🌱 I’m currently learning HTML/CSS/PHP/JavaScript
 - 💞️ I’m looking to collaborate on small websites and web apps
-- 📫 How to reach me @agneskogus
+- 📫 How to reach me @agnieszkakogus
 
 <!---
 AgnieszkaKogus/AgnieszkaKogus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
